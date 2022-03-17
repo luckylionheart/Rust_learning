@@ -7,4 +7,9 @@ fn main() {
     const TIME_OF_DAY:u32 = 60 * 60 * 24;
 
     println!("seconds per day: {}", TIME_OF_DAY);
+
+    // error code, different type of result
+
+    // let mut spaces = "    ";
+    // spaces = spaces.len();
 }
